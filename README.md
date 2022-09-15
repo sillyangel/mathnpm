@@ -1,2 +1,2 @@
 # mathnpm
-githubnpm amth
+githubnpm math
